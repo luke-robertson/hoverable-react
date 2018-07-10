@@ -24,6 +24,7 @@ Props:
 ## Authors
 
 *   **Luke Robertson** - [DesignAlchemy](https://github.com/designalchemy/)
+*   **Chris Golding** - [cpg94](https://github.com/cpg94)
 
 ## License
 

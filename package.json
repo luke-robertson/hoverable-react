@@ -8,10 +8,10 @@
   },
   "keywords": [
     "react",
-    "on",
     "hover",
     "wrapper"
   ],
+  "repository": "https://github.com/designalchemy/hoverable-react",
   "author": "Luke Robertson",
   "license": "ISC",
   "dependencies": {
@@ -19,3 +19,5 @@
     "react": "^16.4.1"
   }
 }
+
+
