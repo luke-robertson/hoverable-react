@@ -1,0 +1,21 @@
+{
+  "name": "hoverable-react",
+  "version": "1.0.0",
+  "description": "on hover react component wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [
+    "react",
+    "on",
+    "hover",
+    "wrapper"
+  ],
+  "author": "Luke Robertson",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1"
+  }
+}
